@@ -229,9 +229,9 @@ export const AgeCalculator = () => {
               type="submit"
               className="relative bottom-8">
               <img
-                src="/src/assets/images/flecha.png"
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Arrow-down.svg/800px-Arrow-down.svg.png"
                 alt="arrow image"
-                className="bg-purple-600 w-16 h-16 rounded-full p-3" />
+                className="bg-purple-600 w-16 h-16 rounded-full p-3 object-contain" />
             </button>
           </article>
         </section>
