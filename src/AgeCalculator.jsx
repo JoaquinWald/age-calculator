@@ -229,7 +229,7 @@ export const AgeCalculator = () => {
               type="submit"
               className="relative bottom-8">
               <img
-                src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Arrow-down.svg/800px-Arrow-down.svg.png"
+                src="https://raw.githubusercontent.com/JoaquinWald/age-calculator/88550c60dd11af4961e31cdc650c41cad5a7e984/src/assets/images/icon-arrow.svg"
                 alt="arrow image"
                 className="bg-purple-600 w-16 h-16 rounded-full p-3 object-contain" />
             </button>
