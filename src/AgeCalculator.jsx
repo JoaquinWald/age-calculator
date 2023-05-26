@@ -229,7 +229,7 @@ export const AgeCalculator = () => {
               type="submit"
               className="relative bottom-8">
               <img
-                src="../assets/images/icon-arrow.svg"
+                src="./assets/images/icon-arrow.svg"
                 alt=""
                 className="bg-purple-600 w-16 h-16 rounded-full p-3" />
             </button>
