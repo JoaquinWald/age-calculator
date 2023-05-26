@@ -40,5 +40,10 @@ dist-ssr
 .DS_Store
 .prettierignore
 
+# .md files
+README-template.md
+README.md
+style-guide.md
+
+# disign folder
 design
-assets
